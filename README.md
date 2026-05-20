@@ -125,6 +125,10 @@ python "./Closed_set RFFI/main.py" --mode test \
   --test-files ./LoRa_RFF/dataset/Test/channel_problem/B.h5
 ```
 
+## Download Dataset
+
+Please downlaod the dataset and put it in the project folder. The download link is https://ieee-dataport.org/open-access/lorarffidataset.
+
 ## Label Convention
 
 HDF5 labels are converted to zero-based device IDs after loading. For example,
