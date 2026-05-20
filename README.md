@@ -1,5 +1,7 @@
 # LoRa RFFI PyTorch Examples
 
+This work reproduces the research presented in the paper 'Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa', available at the link:(https://ieeexplore.ieee.org/abstract/document/9715147)
+
 This repository contains two PyTorch implementations for LoRa radio frequency
 fingerprint identification (RFFI):
 
