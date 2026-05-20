@@ -18,8 +18,7 @@ from training_utils import (
 )
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DATA_ROOT = PROJECT_ROOT / "LoRa_RFF" / "dataset"
+DATA_ROOT = Path("./LoRa_RFF") / "dataset"
 CHANNEL_DIR = DATA_ROOT / "Test" / "channel_problem"
 
 
